@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geeksterWeeklyTest3/static/css/main.642f4406.css",
+    "main.js": "/geeksterWeeklyTest3/static/js/main.b0e359f1.js",
+    "static/js/787.3b60d3a6.chunk.js": "/geeksterWeeklyTest3/static/js/787.3b60d3a6.chunk.js",
+    "index.html": "/geeksterWeeklyTest3/index.html",
+    "main.642f4406.css.map": "/geeksterWeeklyTest3/static/css/main.642f4406.css.map",
+    "main.b0e359f1.js.map": "/geeksterWeeklyTest3/static/js/main.b0e359f1.js.map",
+    "787.3b60d3a6.chunk.js.map": "/geeksterWeeklyTest3/static/js/787.3b60d3a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.642f4406.css",
+    "static/js/main.b0e359f1.js"
+  ]
+}
